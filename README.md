@@ -1,3 +1,7 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ponapalt&show_icons=true)
+See also:
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=ponapalt&layout=compact)
+- https://ssp.shillest.net/
+- https://twitter.com/ponapalt
+- https://ukadon.shillest.net/@ponapalt
+- https://github.com/ukatech
+- https://github.com/YAYA-shiori
